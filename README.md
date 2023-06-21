@@ -14,10 +14,11 @@
 
 ### :woman_technologist: About Me :
 <b>I am Ayomide</b><br />
-🤵 I am a frontend and firebase developer.<br />
-🕐 I presently have at least four years of experience in three companies.<br />
-🌱 I’m currently learning machine learning and advanced state management.<br />
-👯 I’m looking to collaborate on problem-solving innovations.
+- 🤵 I am a frontend and firebase developer.<br />
+- 🕐 I presently have at least four years of experience in three companies.<br />
+- 🌱 I’m currently learning machine learning and advanced state management.<br />
+- ⚡ In my free time, I try out new algorithms and surf HackerRank.<br />
+- 👯 I’m looking to collaborate on problem-solving innovations.
 
 <!--
 **Lensatom/Lensatom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,5 +29,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
