@@ -13,8 +13,8 @@
 </div>
 
 ### :woman_technologist: About Me :
-<b>Hello there!</b><br />
-🤵 I'm Ayomide Atayero and I am a frontend developer.<br />
+<b>I am Ayomide</b><br />
+🤵 I am a frontend and firebase developer.<br />
 🕐 I presently have at least four years of experience in three companies.<br />
 🌱 I’m currently learning machine learning and advanced state management.<br />
 👯 I’m looking to collaborate on problem-solving innovations.
