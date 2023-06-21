@@ -14,7 +14,7 @@
 
 ### :woman_technologist: About Me :
 Hello There!
-I'm Ayomide Atayero and I am a frontend developer.
+I'm Ayomide Atayero and I am a frontend developer. <br />
 🕐 I’m presently a React-proficient developer with at least four years of experience in three companies
 
 <!--
