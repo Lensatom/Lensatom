@@ -13,17 +13,17 @@
 </div>
 
 ### :woman_technologist: About Me :
-Hello There!
-I'm Ayomide Atayero and I am a frontend developer. <br />
-🕐 I’m presently a React-proficient developer with at least four years of experience in three companies
+<b>Hello there!</b><br />
+🤵 I'm Ayomide Atayero and I am a frontend developer.<br />
+🕐 I presently have at least four years of experience in three companies.<br />
+🌱 I’m currently learning machine learning and advanced state management.<br />
+👯 I’m looking to collaborate on problem-solving innovations.
 
 <!--
 **Lensatom/Lensatom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
