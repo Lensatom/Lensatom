@@ -13,7 +13,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-<b>Hello there!</b><br />
+<b>Hello there!</b><br /><br />
 🤵 I'm Ayomide Atayero and I am a frontend developer.<br />
 🕐 I presently have at least four years of experience in three companies.<br />
 🌱 I’m currently learning machine learning and advanced state management.<br />
