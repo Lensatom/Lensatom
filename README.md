@@ -20,7 +20,7 @@
 - ⚡ In my free time, I try out new algorithms and surf HackerRank.<br />
 - 👯 I’m looking to collaborate on problem-solving innovations.
 
-<hr />
+---
 
 <!--
 **Lensatom/Lensatom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
