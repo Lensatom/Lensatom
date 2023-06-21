@@ -11,10 +11,9 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     <br />
   </h2>
-  ---
-
-  ### :woman_technologist: About Me :
 </div>
+---
+### :woman_technologist: About Me :
 
 <!--
 **Lensatom/Lensatom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
