@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=lensatom&style=flat-square&color=black" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=lensatom&style=flat-square&color=green" alt=""/>
 </div>
 
 
