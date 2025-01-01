@@ -21,8 +21,8 @@
 ### :woman_technologist: About Me :
 <b>I am Ayomide</b><br />
 - 🤵 I am a frontend and firebase developer.<br />
-- 🕐 I presently have at least four years of experience in three companies.<br />
-- 🌱 I’m currently learning machine learning and advanced state management.<br />
+- 🕐 I presently have at least four years of experience.<br />
+- 🌱 I’m passionate about growing, learning new things and solving real problems.<br />
 - ⚡ In my free time, I try out new algorithms and surf HackerRank.<br />
 - 👯 I’m looking to collaborate on problem-solving innovations.
 
@@ -43,8 +43,6 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lensatom&theme=dark)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Lensatom)](https://git.io/streak-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lensatom&theme=dark)](https://git.io/streak-stats)<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lensatom&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
