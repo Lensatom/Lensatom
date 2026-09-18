@@ -20,7 +20,7 @@
 
 ### :woman_technologist: About Me :
 <b>I am Ayomide</b><br />
-- 🤵 I am a frontend and firebase developer.<br />
+- 🤵 I am a fullstack MERN stack developer.<br />
 - 🕐 I presently have at least four years of experience.<br />
 - 🌱 I’m passionate about growing, learning new things and solving real problems.<br />
 - ⚡ In my free time, I try out new algorithms and surf HackerRank.<br />
